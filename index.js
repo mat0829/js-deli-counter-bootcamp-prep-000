@@ -12,8 +12,7 @@ function nowServing(katzDeliLine){
     katzDeliLine.shift()
     return ("Currently serving "+next+".")
   }
-  //else
-  //returns first person in line and removes them
+
 }
 
 function currentLine(line){
